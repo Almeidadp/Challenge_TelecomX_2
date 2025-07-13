@@ -92,8 +92,11 @@ Este projeto tem como objetivo desenvolver modelos preditivos supervisionados co
 <h3 style="color:#FA8072">📁 Estrutura de Arquivos</h3>
 
 ├── Challenge_TelecomX_2_BR_.ipynb
+
 ├── README.md ← (este arquivo)
+
 └── data/
+
 └── dados_tratados.csv
 
 
